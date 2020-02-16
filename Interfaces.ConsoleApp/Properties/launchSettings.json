@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Interfaces.ConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "EmailFrom": "contact@ourcompany.com"
+      }
+    }
+  }
+}
